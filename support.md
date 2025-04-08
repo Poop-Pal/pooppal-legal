@@ -1,8 +1,3 @@
----
-layout: default
-title: Support
----
-
 # 💩 Welcome to Poop Pal Support
 
 Need help, found a bug, or just want to talk poop?
