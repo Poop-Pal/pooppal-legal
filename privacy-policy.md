@@ -1,84 +1,128 @@
-# 📜 Privacy Policy for Poop Pal Tracker  
+# 📜 Privacy Policy for Poop Pal Tracker
 
-**Last Updated:** February 2025  
+**Last Updated:** May 2025
 
-Poop Pal is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.  
+Poop Pal is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
 
-## 1. Data We Collect  
+---
 
-We collect limited, non-personal data to improve the functionality and user experience of our app. This data is never linked to your identity and is used strictly for analytics and app performance improvements.  
+## 1. Data We Collect
 
-### 1.1 Personal Data Collected  
+We collect limited, non-personal and device-linked data to improve app functionality, serve ads, and manage subscriptions. Some data may be linked to your device or user ID through third-party services.
 
-Although we do not collect personal information such as names, emails, or health data, we gather **device and usage-related data** through Mixpanel, including:  
+### 1.1 Personal Data Collected
 
-- **Device Information** (screen size, platform type, timezone)  
-- **Session Data** (duration, frequency of app usage)  
-- **User Interaction** (feature usage, page views, navigation patterns)  
-- **Performance Metrics** (error occurrences, load times)  
-- **User-generated content timing** (when logs are created/edited/deleted, but not the content itself)  
+We do not collect personal information such as your name, email, or log content. However, we do collect **device and usage-related data** through third-party services such as Mixpanel, Google AdMob, and RevenueCat:
 
-### 1.2 How This Data Is Stored  
+- **Device Information** (screen size, OS version, platform type, timezone)
+- **Session Data** (duration, frequency of app usage)
+- **User Interaction** (feature usage, page views, navigation patterns)
+- **Performance Metrics** (errors, load times, crash data)
+- **User-generated content timing** (when logs are created/edited/deleted, but not the content itself)
 
-- **All app-generated logs remain locally on your device.**  
-- **Analytics data is stored on Mixpanel’s servers** for tracking usage patterns.  
-- **Session data is temporary** and automatically cleared after each session.  
+### 1.2 How This Data Is Stored
 
-## 2. How We Use Your Data  
+- **All app-generated logs remain locally on your device.**
+- **Analytics data is stored on Mixpanel’s servers** to help us improve the app.
+- **Advertising data is processed by Google AdMob** and linked to your device or IP address.
+- **Purchase data is processed by Apple and RevenueCat**, linked to a device or session ID.
 
-We use the collected data for the following purposes:  
+### 1.3 Advertising and Purchase Data Collected
 
-- To **improve app functionality** and optimize user experience.  
-- To **understand feature usage trends** and navigation behaviors.  
-- To **detect errors** and enhance app performance.  
-- To **process in-app purchases** and subscription-related features.  
+We use third-party services for advertising and subscription tracking, which may collect:
 
-‼️ We do **NOT** collect or store any health-related data or log content.  
+- **Advertising Identifiers** (e.g., IDFA or IDFV)
+- **Approximate Location** (based on your IP address)
+- **Ad Interaction Data** (impressions, clicks, error tracking)
+- **Purchase Receipts and History** (subscription status and validation tokens)
 
-## 3. Third-Party Services & Data Sharing  
+---
 
-We use **Mixpanel** for analytics services. Mixpanel collects and processes data to help us understand how users interact with the app.  
+## 2. How We Use Your Data
 
-### 3.1 What Mixpanel Collects  
+We use collected data to:
 
-- Device type and technical information  
-- Interaction with app features  
-- Session activity and navigation flow  
-- Performance errors  
+- Improve app functionality and optimize your experience
+- Understand usage trends and feature engagement
+- Detect crashes, bugs, or slow performance
+- Display ads (non-personalized or test only)
+- Validate and manage in-app purchases and subscriptions
 
-‼️ Mixpanel **does NOT have access to your logged content or personal health data.**  
+‼️ We do **NOT** collect or store any personal health-related content.
 
-### 3.2 How to Opt-Out of Analytics Tracking  
+---
 
-If you do not want your usage data to be tracked, you can:  
+## 3. Third-Party Services: Analytics, Ads & Purchases
 
-- Delete the app, which will erase all locally stored data.  
+### 3.1 Mixpanel (Analytics)
 
-## 4. Data Retention & Deletion  
+We use **Mixpanel** to analyze how users interact with the app. It helps us identify trends and improve usability. Mixpanel may collect:
 
-- **Analytics data is retained indefinitely to improve app functionality and optimize user experience.**  
-- **Session data is temporary** and cleared after each session.  
-- **Users can delete all data by uninstalling the app** (this removes all local logs).  
-- **Users can also delete their analytics data within the app settings.**  
+- Device details and app version
+- Button taps, screen visits, and navigation patterns
+- Session duration and engagement metrics
 
-## 5. In-App Purchases & Monetization  
+🔗 [Mixpanel Privacy Policy](https://mixpanel.com/legal/privacy-policy/)
 
-Poop Pal Tracker offers an **annual subscription** as an in-app purchase.  
+### 3.2 Google AdMob (Ads)
 
-- All payments are processed securely through **Apple’s App Store**.  
-- We do not collect or store your payment information.  
-- Subscriptions are managed through your Apple account settings.  
+We use **Google AdMob** to serve ads within the app. AdMob may collect:
 
-## 6. Children's Privacy  
+- Device and advertising identifiers
+- Approximate location (via IP address)
+- Interaction with ads (views, clicks, errors)
 
-Poop Pal Tracker is **not intended for children under 13 years of age.**  
-We do not knowingly collect any personal data from children.  
+AdMob may use this data for contextual advertising or test ads. We do not currently enable personalized ads.
 
-## 7. Changes to This Privacy Policy  
+🔗 [Google Privacy Policy](https://policies.google.com/privacy)
 
-We may update this Privacy Policy from time to time. Any changes will be reflected within the app and on our official Privacy Policy page.  
+### 3.3 RevenueCat (Subscriptions)
 
-## 8. Contact Us  
+We use **RevenueCat** to process and validate in-app purchases. RevenueCat may collect:
 
-If you have any questions about this Privacy Policy or wish to request data deletion, you can contact us at:  
-📧 **pooppal.legal@gmail.com**  
+- An anonymized user or device ID
+- Purchase receipts and subscription history
+- Device and app metadata
+
+This data is used to confirm purchase status and unlock premium features.
+
+🔗 [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+
+---
+
+## 4. Data Retention & Deletion
+
+- Analytics and purchase data may be retained indefinitely to help us improve app performance.
+- All session data is temporary and cleared after the session ends.
+- **App logs are stored only locally** and are deleted when you uninstall the app.
+- You may request deletion of Mixpanel data via the app settings or by contacting us directly.
+
+---
+
+## 5. In-App Purchases, Ads & Monetization
+
+Poop Pal Tracker offers an **annual subscription** to remove ads and unlock premium features.
+
+- Payments are processed securely through **Apple’s App Store**.
+- We do not store any credit card or personal payment information.
+- Ads are powered by **Google AdMob**, and may appear in the free version of the app.
+- Ads are either test ads or contextual (non-personalized).
+
+---
+
+## 6. Children’s Privacy
+
+Poop Pal Tracker is **not intended for children under 13 years of age**. We do not knowingly collect or store any personal data from children.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. All changes will be reflected inside the app and on our official website or repository.
+
+---
+
+## 8. Contact Us
+
+For questions, feedback, or data deletion requests, contact us at:  
+📧 **pooppal.legal@gmail.com**
